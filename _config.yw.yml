@@ -12,15 +12,13 @@ keywords: haoguo
 # https://github.com/chriskempson/tomorrow-theme
 highlight_theme: normal
 
-
 menu:
   Blog: /
-  #categories: /categories
-  #archives: /archives
-  #tags: /tags
+    #categories: /categories
+    #archives: /archives
+    #tags: /tags
   About: /about
   GitHub: https:github.com/guohao
-
 
 
 # Static files
